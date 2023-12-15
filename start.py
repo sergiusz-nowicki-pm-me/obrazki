@@ -4,6 +4,7 @@
 # 2. Wylistować zawartość katalogu i wybrać pliki graficzne.
 # 3. Wczytań wybrane pliki po kolei i przetworzyć
 # 4. Zapisać pliki do podkatalogu
+# 5. Dodać wybór operacji
 
 
 import sys
